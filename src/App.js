@@ -22,6 +22,7 @@ function useData() {
   const firebaseConfig = {
     apiKey: "AIzaSyAxqsoNnEvj0fMFIVCpBYIGI6jq8qRf-gU",
     authDomain: "ardaregister-18d82.firebaseapp.com",
+    databaseURL: "https://ardaregister-18d82-default-rtdb.europe-west1.firebasedatabase.app",
     projectId: "ardaregister-18d82",
     storageBucket: "ardaregister-18d82.appspot.com",
     messagingSenderId: "770280114552",
